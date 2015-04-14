@@ -1,0 +1,28 @@
+BEGIN nzolotykh
+NAME: Nikita Zolotykh
+BEGIN QUEUE
+City Lights
+END QUEUE
+BEGIN RATINGS
+3 City Lights
+5 The Princess Bride
+END RATINGS
+END
+BEGIN darthvader
+NAME: Darth Vader
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+2 City Lights
+1 The Princess Bride
+3 21 Jump Street
+END RATINGS
+END
+BEGIN shewy
+NAME: Christina Sheu
+BEGIN QUEUE
+END QUEUE
+BEGIN RATINGS
+1 City Lights
+END RATINGS
+END

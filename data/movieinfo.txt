@@ -1,0 +1,21 @@
+BEGIN The Princess Bride
+KEYWORD: comedy
+KEYWORD: Inigo Montoya
+KEYWORD: Robin Wright
+ACTOR: Kevin Bacon
+ACTOR: Christina Sheu
+END
+BEGIN City Lights
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: Charlie Chaplin
+KEYWORD: social criticism
+ACTOR: Nikita Zolotykh
+END
+BEGIN 21 Jump Street
+KEYWORD: comedy
+KEYWORD: College
+KEYWORD: funny
+ACTOR: Christina Sheu
+ACTOR: Nikita Zolotykh
+END
