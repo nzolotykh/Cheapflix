@@ -1,5 +1,4 @@
-- **Name**: Nikita Zolotykh
-- **Email**: zolotykh@usc.edu
+# Cheapflix
 
 *DESCRIPTION*
 
